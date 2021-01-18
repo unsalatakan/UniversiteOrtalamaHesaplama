@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Üniversite Ortalama Hesaplama</string>
+    <string name="e_mail">E-Posta</string>
+    <string name="password">Şifre</string>
+    <string name="verify_code">Onay Kodu</string>
+    <string name="verify_e_mail">E-Posta Onayla</string>
+    <string name="login">Giriş</string>
+    <string name="register">Kaydol</string>
+    <string name="register1">E-Posta ile Kayıt Ol</string>
+    <string name="verify_code_email">Please check your e-mail account.</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="niversite_d_nem_ortalamas_hesaplama_arac">Üniversite Dönem Ortalaması Hesaplama Aracı</string>
+    <string name="name">Name</string>
+    <string name="kredi">kredi</string>
+    <string name="harf_notu">harf notu</string>
+    <string name="h1"></string>
+    <string name="h2"></string>
+    <string name="h3"></string>
+    <string name="h4"></string>
+    <string name="k1"></string>
+    <string name="k2"></string>
+    <string name="k3"></string>
+    <string name="k4"></string>
+    <string name="textview">TextView</string>
+    <string name="Hesapla">HESAPLA</string>
+    <string name="gpa_hesaplama">GPA hesaplama</string>
+    <string name="harf_n">HARF NOTU</string>
+    <string name="krdi">KREDİ</string>
+    <string name="ulke_seciniz">Ülke Seçiniz</string>
+    <string name="ders_sayisi">Ders Sayısı Seçiniz</string>
+    <string name="harf_sistemi">Harf Sistemi</string>
+    <string-array name="ders_sayisi">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+
+
+    </string-array>
+
+    <string-array name="harf_sistemi">
+        <item>AA Sistemi</item>
+        <item>A+ A- Sistemi</item>
+        <item>A+ A Sistemi</item>
+
+
+    </string-array>
+</resources>
